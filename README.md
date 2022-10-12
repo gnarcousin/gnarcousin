@@ -3,7 +3,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ossQB&show_icons=true&theme=maroongold)
 
 <p align="center">
-  My team
   <br>
   <a href="https://github.com/ossQB" target="_blank"><img src="https://img.shields.io/badge/2team-5468FF?style=for-the-badge&logo=Apostrophe&logoColor=white"/></a>
   <br>
