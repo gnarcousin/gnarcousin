@@ -1,7 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,12,15&height=300&section=header&text=Han%20YoonTaek&animation=twinkling&fontSize=90&desc=Korean%20AI%20student&descSize=30&descAlignY=70)
+![Header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,12,15&height=300&section=header&text=Han%20YoonTaek&animation=twinkling&fontSize=90&desc=Korean%20DMU%20AI%20student&descSize=30&descAlignY=70)
 
+<div style="text-align:center;">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ossQB&show_icons=true&theme=maroongold)
-
+</div>
 <!--
 **gnarcousin/gnarcousin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
