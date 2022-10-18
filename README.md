@@ -20,7 +20,11 @@
   <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=Visual Studio&logoColor=5C2D91"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
   <a href="https://www.java.com/ko/" target="_blank"><img src="https://img.shields.io/badge/JAVA-4facfe?style=for-the-badge&logo=Eclipse IDE&logoColor=000000"/></a>
+  <br><br>
   
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoolgutree&count_bg=%238EC5FC&title_bg=%23DADADB&icon=github.svg&icon_color=%23888888&title=Hits&edge_flat=false"/></a>
+</p>
   
 ---
 
