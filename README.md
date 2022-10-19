@@ -23,11 +23,18 @@
   <a href="https://www.java.com/ko/" target="_blank"><img src="https://img.shields.io/badge/JAVA-4facfe?style=for-the-badge&logo=Eclipse IDE&logoColor=000000"/></a>
   <img src="https://user-images.githubusercontent.com/85077262/195754101-8a3ca706-7e7f-48ef-9497-f6d56f82d5c7.png" width="35px">
   <br><br>
-  
+                                                                                                                           
+<p></p>
+<h3 align="center"> 🤔 About Me 🤔 </h3>
+                                                                                                                           
+<p align="center">
+  <a href="mailto:nifl0331@gmail.com"><img src="https://img.shields.io/badge/Mail(Google)-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=nifl0331@google.com"/></a>
+</p>
+                                                                                                                           
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gnarcousin&count_bg=%238EC5FC&title_bg=%23DADADB&icon=github.svg&icon_color=%23888888&title=Hits&edge_flat=false"/></a>
 </p>
-  
+
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ossQB&show_icons=true&theme=maroongold)
