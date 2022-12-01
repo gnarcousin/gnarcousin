@@ -1,8 +1,5 @@
-<p align = "center">
- 
 ![Header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,12,15&height=300&section=header&text=Han%20YoonTaek&animation=twinkling&fontSize=90&desc=Korean%20DMU%20AI%20student&descSize=30&descAlignY=70)
- 
-</p>
+
 
 <!-- 뱃지 -->
 
@@ -31,10 +28,9 @@
 <p></p>
 <h3 align="center"> 🤔 About Me 🤔 </h3>
 
-<p align="center">
-                 
-  ![DMU](https://user-images.githubusercontent.com/107753319/205061367-63d450c9-954a-4464-be4c-6acd16064d56.png)
-                 
+<p align="center">                 
+  <img src="https://user-images.githubusercontent.com/107753319/205061367-63d450c9-954a-4464-be4c-6acd16064d56.png">
+  <br><br>
   <a href="mailto:nifl0331@gmail.com"><img src="https://img.shields.io/badge/Mail(Google)-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=nifl0331@google.com"/></a>
 </p>
                                                                                                                            
