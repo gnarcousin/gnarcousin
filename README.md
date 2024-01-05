@@ -5,11 +5,6 @@
 
 <div style="text-align:center;">
 <p></p>
-<h3 align="center"> 🌜 Where is my team? 🌛 </h3>
- 
-<p align="center">
-  <br>
-  <a href="https://github.com/ossQB" target="_blank"><img src="https://img.shields.io/badge/2team-5468FF?style=for-the-badge&logo=Apostrophe&logoColor=white"/></a>
 
 <div style="text-align:center;">
 <p></p>
