@@ -16,7 +16,7 @@
   <a href=https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"/></a>
   <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=Visual Studio&logoColor=5C2D91"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
-  <a href="https://www.unity.com/" target="_blank"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
+  <a href="https://www.unity.com/" target="_blank"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
   <a href="https://www.java.com/ko/" target="_blank"><img src="https://img.shields.io/badge/JAVA-4facfe?style=for-the-badge&logo=Eclipse IDE&logoColor=000000"/></a>
   <img src="https://user-images.githubusercontent.com/85077262/195754101-8a3ca706-7e7f-48ef-9497-f6d56f82d5c7.png" width="35px">
   <br><br>
